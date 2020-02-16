@@ -1,0 +1,5 @@
+#borderdiv{
+    border: 2px solid gainsboro;
+    border-radius: 15px;
+    width: auto;
+}
